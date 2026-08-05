@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "channel": "beta",
+  "version": "1.0.7",
+  "minimum_supported_version": "1.0.6",
+  "published_at": "2026-08-05T16:10:01Z",
+  "installer_name": "ProductPriceMonitor-Setup-1.0.7-x64.exe",
+  "installer_url": "https://github.com/jaredrrrt-ux/ProductPriceMonitor-Releases/releases/download/v1.0.7-beta.1/ProductPriceMonitor-Setup-1.0.7-x64.exe",
+  "installer_size": 35478653,
+  "sha256": "4556cf66d9da22ae718b162cf98b9e0db4bd8e2b5ddada176e6075b8050ecc24",
+  "release_notes_url": "https://github.com/jaredrrrt-ux/ProductPriceMonitor-Releases/releases/download/v1.0.7-beta.1/ProductPriceMonitor-1.0.7-Release-Notes.txt",
+  "desktop_version": "1.0.7",
+  "native_host_version": "1.0.7",
+  "extension_version": "1.0.7",
+  "protocol_version": 1
+}
