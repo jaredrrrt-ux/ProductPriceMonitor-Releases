@@ -2,9 +2,9 @@
 
 Binary-only update feed for the ProductPriceMonitor private beta. The source repository remains private.
 
-## ProductPriceMonitor 1.0.7 Private Beta
+## ProductPriceMonitor 1.0.8 Private Beta
 
-- Prerelease tag: `v1.0.7-beta.1`
+- Prerelease tag: `v1.0.8-beta.1`
 - Windows x64 installer: **NotSigned**
 - Verify downloads with the published SHA-256 checksum file before running Setup.
 - Windows may display a SmartScreen warning because this private-beta installer is not code-signed.
